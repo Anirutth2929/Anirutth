@@ -11,6 +11,7 @@ steps:
 images:
 - 'us-central1-docker.pkg.dev/project-70309335-c83d-4b66-8d2/my-repo-test/1hello-service:latest'
  
+ 
 
 options:
   logging: CLOUD_LOGGING_ONLY
